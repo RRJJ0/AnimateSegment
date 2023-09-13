@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TestSegment">
+        <attr name="segNum" format="integer">3</attr>
+        <attr name="selectItemColor" format="color"/>
+        <attr name="unSelectItemColor" format="color"/>
+        <attr name="selectTextColor" format="color"/>
+        <attr name="unSelectTextColor" format="color"/>
+    </declare-styleable>
+
+</resources>
